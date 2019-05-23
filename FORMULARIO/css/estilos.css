@@ -1,0 +1,38 @@
+
+#form {
+	width:0px 500px;
+	padding: 15px 20px;
+    color: cornsilk;
+	background-image: url('fondo.jpg');
+	background-size: 100%;
+	
+}
+
+h1{
+	text-align: center;
+	color: rgba(209, 120, 117, 0.699);
+}
+
+td {
+	padding-top: 10px;
+	padding-right: 15px;
+}
+
+#crear, #cancelar {
+	width: 150px;
+	margin: 20px;
+
+}
+
+#btn {
+	text-align: center;
+
+}
+.error {
+	border: 0.5px solid red;
+}
+
+.p {
+	display: block !important;
+	color: red;
+}
